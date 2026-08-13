@@ -290,7 +290,7 @@ lab_bgr = cv.cvtColor(lab, cv.COLOR_LAB2BGR)
 
 ---
 
-### Color Channels
+### Color Channels BGR
 
 ```python
 import cv2 as cv
