@@ -713,5 +713,3 @@ cv.waitKey(0)
 | `recognizer.predict(roi)` | Predict label & confidence |
 
 ---
-
-*Happy Coding! 🚀*
